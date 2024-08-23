@@ -1,3 +1,3 @@
-x=0+0j
-y=bool(x)
-print(y)
+# x=0+0j
+# y=bool(x)
+# print(y)
